@@ -3,13 +3,13 @@
 # OFFICIAL DASH ROADMAP
 
 ## 12.1 (July 2016)
-- a project that takes commands like "masternode create 'name123'", "group create name blah" (sentinel)
-- a core update that uses generic objects  [12.1-core-gov](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance.h#L209)
-- a layer between sentinel and core (mysql database relational layout / crontabs / classes / objects)
-- a trigger system which allows sentinel sybil-proof secure control over the entire network
+- a project that takes commands like "masternode create 'name123'", "group create name blah" ([sentinel](https://github.com/evan82/sentinel))
+- a core update that uses generic objects ([12.1-core-gov](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance.h#L209))
+- a layer between sentinel and core ([mysql database relational layout / crontabs / classes / objects](https://github.com/evan82/sentinel/blob/master/database/001.sql))
+- a trigger system which allows sentinel sybil-proof secure control over the entire network ([governance-misc.h](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance-misc.h#L27))
 - a trigger system which can send payments, ban blocks, ban users, update settings
-- a scriptable, easy to understand turing complete python implementation for controling the network (the brain)
-- various signaling methods between masternode network and governance objects (fund, end, valid, failure, endorsed, outerstorage)
+- a scriptable, easy to understand turing complete python implementation for controling the network ([brain.py](https://github.com/evan82/sentinel))
+- various signaling methods between masternode network and governance objects ([fund, end, valid, failure, endorsed, outerstorage](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance-vote.h#L28))
 
 ## 12.2 - DashDrive (March 2017)
 - add layer in sentinel to pull register data from governance objects and delete it out of network memory, then signal outerstorage
