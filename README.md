@@ -35,5 +35,5 @@
 - automatic mobile wallet backups (a subtree of HD wallet on private server)
 
 ## 13.0 - Evo v1 - Proof-Of-Work 2.0
-- collateralized mining implementation which supports energy effeciency mode
+- collateralized mining implementation which supports energy efficiency mode
 - use mining network simply for hashes, masternode network will determine validity of data
