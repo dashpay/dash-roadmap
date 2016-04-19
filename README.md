@@ -8,7 +8,7 @@
 - a decoupling layer between sentinel and dash-core ([mysql database relational layout / crontabs / classes / objects](https://github.com/evan82/sentinel/blob/master/database/001.sql))
 - a trigger system which allows sentinel sybil-proof secure control over the entire network ([governance-misc.h](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance-misc.h#L27))
 - a trigger system which can send payments, ban blocks, ban users, update settings
-- a scriptable, easy to understand turing complete python implementation for controling the network ([brain.py](https://github.com/evan82/sentinel/lib/brain.py))
+- a scriptable, easy to understand turing complete python implementation for controling the network ([brain.py](https://github.com/evan82/sentinel/blob/master/lib/brain.py))
 - various signaling methods between masternode network and governance objects ([fund, end, valid, failure, endorsed, outerstorage](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance-vote.h#L28))
 - support for users, groups, companies, contracts, proposals, projects, project-milestones and project-reports ([classes.py](https://github.com/evan82/sentinel/blob/master/lib/classes.py))
 
