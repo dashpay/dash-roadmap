@@ -10,6 +10,7 @@
 - a trigger system which can send payments, ban blocks, ban users, update settings
 - a scriptable, easy to understand turing complete python implementation for controling the network ([brain.py](https://github.com/evan82/sentinel))
 - various signaling methods between masternode network and governance objects ([fund, end, valid, failure, endorsed, outerstorage](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance-vote.h#L28))
+- support for users, groups, companies, contracts, proposals, projects, project-milestones and project-reports ([classes.py](https://github.com/evan82/sentinel/blob/master/lib/classes.py))
 
 ## 12.2 - DashDrive (March 2017)
 - add layer in sentinel to pull register data from governance objects and delete it out of network memory, then signal outerstorage
