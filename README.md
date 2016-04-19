@@ -16,7 +16,7 @@
 - add layer in sentinel to pull register data from governance objects and delete it out of network memory, then signal outerstorage
 - add file storage system for caching outerstorage system (dashdrive)
 
-## 12.3 - DAPI / Evo-Alpha (web-based) (Dec 2017)
+## 12.3 - DAPI / Evo-Alpha (web-based) (Jan 2018)
 - login to personal server from dash.org using username and password
 - keep private balance
 - local accounts
@@ -30,7 +30,7 @@
 - USD balance support (cryptocapital)
 - Automatic movement of funds between USD and Dash (bots on your private server, apis for polo, etc) 
 
-## 12.3 - Evo-Beta (mobile) (Dec 2017)
+## 12.4 - Evo-Beta (mobile) (Aug 2018)
 - mobile hot wallet connected to private server
 - automatic "top-off" of mobile wallets
 - automatic mobile wallet backups (a subtree of HD wallet on private server)
