@@ -4,7 +4,7 @@
 
 ## 12.1 (July 2016)
 - a project that takes commands like "masternode create 'name123'", "group create name blah" (sentinel)
-- a core update that uses generic objects  (12.1-core-gov)
+- a core update that uses generic objects  [12.1-core-gov](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance.h#L209)
 - a layer between sentinel and core (mysql database relational layout / crontabs / classes / objects)
 - a trigger system which allows sentinel sybil-proof secure control over the entire network
 - a trigger system which can send payments, ban blocks, ban users, update settings
