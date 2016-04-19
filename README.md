@@ -3,7 +3,7 @@
 # OFFICIAL DASH ROADMAP
 
 ## 12.1 (July 2016)
-- a project that takes commands like "masternode create 'name123'", "group create name blah" ([sentinel](https://github.com/evan82/sentinel/main.py))
+- a project that takes commands like "masternode create 'name123'", "group create name blah" ([sentinel](https://github.com/evan82/sentinel/))
 - a core update that uses generic governance objects ([12.1-core-gov](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance.h#L209))
 - a decoupling layer between sentinel and dash-core ([mysql database relational layout / crontabs / classes / objects](https://github.com/evan82/sentinel/blob/master/database/001.sql))
 - a trigger system which allows sentinel sybil-proof secure control over the entire network ([governance-misc.h](https://github.com/evan82/dash/blob/v0.12.1.x-gov/src/governance-misc.h#L27))
