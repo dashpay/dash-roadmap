@@ -1,5 +1,6 @@
 
 
+
 # OFFICIAL DASH ROADMAP
 
 ## 12.1 (July 2016)
@@ -14,7 +15,7 @@
 
 ## 12.2 - DashDrive (March 2017)
 - add layer in sentinel to pull register data from governance objects and delete it out of network memory, then signal outerstorage
-- add file storage system for caching outerstorage system (dashdrive)
+- add file storage system for caching outer-storage system (dashdrive)
 
 ## 12.3 - DAPI / Evo-Alpha (web-based) (Jan 2018)
 - login to personal server from dash.org using username and password
@@ -22,7 +23,7 @@
 - local accounts
 - 2 factor security
 - full node per user
-- supports autopay
+- supports auto-pay
 - supports masternodes
 - supports proposal/contract/user/group creation / management
 - flat fees set by sentinel
@@ -38,3 +39,4 @@
 ## 13.0 - Evo v1 - Proof-Of-Work 2.0
 - collateralized mining implementation which supports energy efficiency mode
 - use mining network simply for hashes, masternode network will determine validity of data
+
