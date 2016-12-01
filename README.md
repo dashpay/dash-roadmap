@@ -1,37 +1,36 @@
 
-
-
 # OFFICIAL DASH ROADMAP
-
-## 12.1 (July 2016)
+## 12.1 (Jan 2017)
 - generic governance objects capable of holding various sub-objects (proposals, superblocks and contracts/users/groups in 12.2
 - a program which allows relational access to generic data (sentinel)
 - a new budget system build using generic governance objects 
 
-## 12.2 - DashDrive (March 2017)
-- support for users, groups, companies, contracts, proposals, projects, project-milestones and project-reports
-- add layer in sentinel to pull register data from governance objects and delete it out of network memory, then signal outerstorage
-- add file storage system for caching outer-storage system (dashdrive)
+## 12.1.1 - DashDrive (March 2017)
+- Addition of projects and milestones
+- The ability for project managers to release funding on successful execution of projects
+- Contracts
 
-## 12.3 - DAPI / Evo-Alpha (web-based) (Jan 2018)
+## 12.2 - DashDrive & DAPI & Client App (Jan 2018)
+- A very early alpha version capable of less than 1 million users possible
+
+## 12.X - DashDrive v2 (TBD)
+- Blockchain based solution, with sharding for scalability
+
+## 12.X - DAPI v2 (TBD)
+- Full API for interacting with the Dash ecosystem
+
+## 12.X - Client App v2 (TBD)
 - login to personal server from dash.org using username and password
 - keep private balance
 - local accounts
-- 2 factor security
-- full node per user
-- supports auto-pay
+- supports subscriptions
 - supports masternodes
 - supports proposal/contract/user/group creation / management
-- flat fees set by sentinel
 - USD balance support (cryptocapital)
-- Automatic movement of funds between USD and Dash (bots on your private server, apis for polo, etc) 
-
-## 12.4 - Evo-Beta (mobile) (Aug 2018)
-- mobile hot wallet connected to private server
 - automatic "top-off" of mobile wallets
 - automatic mobile wallet backups (a subtree of HD wallet on private server)
 
-## 13.0 - Evo v1 - Proof-Of-Work 2.0
+## 13.0 - Proof-Of-Work 2.0 (TBD)
 - collateralized mining implementation which supports energy efficiency mode
 - use mining network simply for hashes, masternode network will determine validity of data
 
