@@ -1,5 +1,8 @@
 
 # OFFICIAL DASH ROADMAP
+
+!!! Out-dated, new roadmap will be released in the following days. 
+
 ## 12.1 (Jan 2017)
 - generic governance objects capable of holding various sub-objects (proposals, superblocks and contracts/users/groups in 12.2
 - a program which allows relational access to generic data (sentinel)
