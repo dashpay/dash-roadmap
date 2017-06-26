@@ -32,7 +32,8 @@ We would also like to announce the creation of a new team to be centered in Hong
 - 2MB / 5MB block research documentation
 - Launch of a read-only/view-only portal for project documentation which will be open to the entire community (to ensure transparency)
 - Launch a read-only/view-only portal to view current tickets, projects the teams are working on
-- DashPay Evolution Wallet Testnet Release (November 2017)
+
+# DashPay Evolution Wallet Testnet Release (November 2017)
 - User signup and friending process (Signup procedure for Evolution on testnet // reservation testnet)
 - Basic support for purchase agreements
 - Evolution Account Management (Create, Review, Update, Delete)
