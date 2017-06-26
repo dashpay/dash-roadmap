@@ -86,7 +86,7 @@ We would also like to announce the creation of a new team to be centered in Hong
 - Third-party add-ons for customer DAPI objects / wallet schema versioning
 - Automatic form filling for delivery addresses using encrypted blobs
 - External storage support to offload blob storage for payment request history and other information 
-- Fiat / Credit card support from within wallet, seamless design <sup>[28](#f28)</sup>
+- Fiat / Credit card support from within wallet, seamless design <sup>[27](#f27)</sup>
 - Unofficial Evolution wallets with custom features <sup>[23](#f23)</sup>
 - Evolution marketplace / Add-ons / Rating system <sup>[25](#f25)</sup>
 - Hardened entropy-based wallet seeding system <sup>[18](#f18)</sup>
