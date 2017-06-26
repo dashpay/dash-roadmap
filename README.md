@@ -140,3 +140,4 @@ Footnotes
 <br /><a name="f25">25</a>: DashDrive object writes require fees for each object written to the system. The system is designed to use an initial burn of coins, which create a small credit that is tracked in the system, debits are introduced for each operation that is done in relation to Evolution.
 <br /><a name="f26">26</a>: Using specialized state transition for maintenance functions Each component of masternode will run redundantly under a load balancer to allow for individual component failure without causing a cascade which creates an outage 
 <br /><a name="f27">27</a>: Using third party API keys, allowing user to setup keys in settings then use from wallet seamlessly without ever leaving Dash. 
+<br /><a name="f28">28</a>: By leveraging dapi and third party tools, we can deploy addons and a marketplace, which allows custom third party services to integrate directly in the wallet such as debit/credit cards and fiat bank account support 
