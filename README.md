@@ -1,7 +1,9 @@
-#OFFICIAL DASH ROADMAP
-##Version 2.1.1 // Delivery Milestones
-##Evan Duffield / evan@dash.org / Dash Labs
-##Andy Freer / andy@dash.org / Dash Core CTO
+# OFFICIAL DASH ROADMAP
+### Version 2.1.1 // Delivery Milestones
+#### Evan Duffield / evan@dash.org / Dash Labs
+#### Andy Freer / andy@dash.org / Dash Core CTO
+
+
   
 Dash Evolution will be the first user-friendly and scalable digital currency platform suitable for mass adoption. Because this is such an ambitious goal, we’ve created a detailed roadmap to guide development. Evolution will be launched in three stages. Each release will increase the processing power, ease of use, feature set, and scalability of the network.  
  
@@ -85,7 +87,7 @@ Support for user/merchant ratings via maintenance quorums
 - Fiat / Credit card support from within wallet, seamless design 28
 - Unofficial Evolution wallets with custom features 23
 - Evolution marketplace / Add-ons / Rating system 25
-- Hardened entropy-based wallet seeding system 18`
+- Hardened entropy-based wallet seeding system 18
 - Collateralized mining 12
 
 # 15.0 - Evolution v3 (TBD)
