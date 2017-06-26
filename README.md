@@ -68,7 +68,7 @@ We would also like to announce the creation of a new team to be centered in Hong
 - Encryption of object data
 - Offices in Arizona, Europe (CORE), and Asia (Dash SW)
 - Age-based quorums <sup>[13](#13)</sup>
-- Friending system / Semaphore-based approval system <sup>[7](#7)</sup> <sup>[15](#15)</sup>
+- Friending system / Semaphore-based approval system <sup>[7](#7)</sup>
 - IPFS DashDrive implementation / Limited sharding ability 
 - Official user-friendly Wallet
 - Masternode blocks <sup>[11](#11)</sup>
@@ -128,7 +128,8 @@ Footnotes
 <br /><a name="f12">12</a>: System of requiring collateral + mining hardware to create blocks on network. Each collateral allowed to mine block every specific amount of time.
 <br /><a name="f13">13</a>: All active masternodes will be sorted into four groups by age. The oldest 25% of the network will be in the first group, the next-oldest 25% will be in the next group, and so on. Masternode quorums will draw 25% of their quorum from each age group. 
 <br /><a name="f14">14</a>: X11 hashing, quorum selection, sha/crypto transaction processing and other common functions available via custom hardware allowing for higher network security and higher transaction support
-<br /><a name="f16">16</a>: System allows 
+<br /><a name="f15">15</a>: System requires highly interconnected second-tier network with co-located ethernet handoff. VPS co-location should be suffient for first evo release.  
+<br /><a name="f16">16</a>: Upgrade to 5MB blocks doesn't require specialized hardware. 
 <br /><a name="f17">17</a>: Base two log-linear growth model, based on mathematically model of crypto-sphere economy and historical growth of the space.
 <br /><a name="f18">18</a>: Base two growth model of block sizes beyond this
 <br /><a name="f19">19</a>: Easy to remember way of seeding wallets
