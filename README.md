@@ -56,28 +56,28 @@ We would also like to announce the creation of a new team to be centered in Hong
 # 13.0 - Evolution v1 - Mainnet (June 2018)
 - Public DashPay, DAPI, DashDrive, DashCore v13.0 release
 - Fourth Hiring Wave - Full-time developers
-- 500K daily-users supported <sup>[22](#22)</sup>
-- Ethernet networking requirement <sup>[15](#15)</sup>
-- 1TB HDD / 128GB SSD Req <sup>[8](#8)</sup> <sup>[9](#9)</sup>
-- 64TX/SEC && 5.33MB blocks <sup>[16](#16)</sup> <sup>[20](#20)</sup> <sup>[21](#21)</sup>
+- 500K daily-users supported <sup>[22](#f22)</sup>
+- Ethernet networking requirement <sup>[15](#f15)</sup>
+- 1TB HDD / 128GB SSD Req <sup>[8](#f8)</sup> <sup>[9](#f9)</sup>
+- 64TX/SEC && 5.33MB blocks <sup>[16](#f16)</sup> <sup>[20](#f20)</sup> <sup>[21](#f21)</sup>
 - Quorum-based DAPI implementation <sup>[4](#f4)</sup>
 - Proof of service / Proof of blockchain
 - Governance object support for users, groups, accounts
-- Email-based invitation system <sup>[2](#2)</sup>
-- State transitions <sup>[6](#6)</sup>
+- Email-based invitation system <sup>[2](#f2)</sup>
+- State transitions <sup>[6](#f6)</sup>
 - Encryption of object data
 - Offices in Arizona, Europe (CORE), and Asia (Dash SW)
-- Age-based quorums <sup>[13](#13)</sup>
-- Friending system / Semaphore-based approval system <sup>[7](#7)</sup>
+- Age-based quorums <sup>[13](#f13)</sup>
+- Friending system / Semaphore-based approval system <sup>[7](#f7)</sup>
 - IPFS DashDrive implementation / Limited sharding ability 
 - Official user-friendly Wallet
-- Masternode blocks <sup>[11](#11)</sup>
+- Masternode blocks <sup>[11](#f11)</sup>
 
 # 14.0 - Evolution v2 (TBD)
 - Fifth Hiring Wave - Full-time developers
 - 5M daily-users supported
 - 2TB HDD / 256GB SSD / 16/32 Xeon processor
-- 128TX/SEC && 10.67MB blocks <sup>[17](#17)</sup>
+- 128TX/SEC && 10.67MB blocks <sup>[17](#f17)</sup>
 - GB Ethernet-handoff / Co-located level networking requirement
 - Ability to move money between public and private accounts <sup>[5](#f5)</sup>
 - DashDrive v2 <sup>[3](#f3)</sup>
