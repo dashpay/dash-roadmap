@@ -66,7 +66,7 @@ We would also like to announce the creation of a new team to be centered in Hong
 - Email-based invitation system <sup>[2](#2)</sup>
 - State transitions <sup>[6](#6)</sup>
 - Encryption of object data
-- Offices in Arizona, Europe (CORE), and Asia (Dash SW)
+- Offices in Arizona, Europe (CORE), and Asia (Dash Labs)
 - Age-based quorums <sup>[13](#13)</sup>
 - Friending system / Semaphore-based approval system <sup>[7](#7)</sup>
 - IPFS DashDrive implementation / Limited sharding ability 
