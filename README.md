@@ -1,5 +1,5 @@
 # OFFICIAL DASH ROADMAP
-### Version 2.1.1 // Delivery Milestones
+### Version 2.1.2 // Delivery Milestones
 - Evan Duffield / evan@dash.org / Dash Labs
 - Andy Freer / andy@dash.org / Dash Core CTO
 
@@ -98,13 +98,14 @@ We would also like to announce the creation of a new team to be centered in Hong
 - 10 GB Ethernet-handoff / Co-located networking requirement
 - 256TX/SEC && 21.34MB blocks <sup>[17](#f17)</sup>
 - DashDrive sharding / 4TB HD / 512GB SSD
-- PCI-E hardware-based masternode peripheral <sup>[14](#f14)</sup>
+- GPU based block accelerator
 - Masternode shares via governance objects 
 - Group-based masternode shares program <sup>[1](#f1)</sup>
 - Group-based voting system for picking / dropping hosting providers on group owned masternode
 - Group-based voting for network proposals
 
 # 16+ - TBD
+- Custom ULBA hardware, PCI-EX or high speed USB 3.0 <sup>[14](#f14)</sup>
 - Complete end-to-end open source masternode hardware / with custom silicon for processing high volumes of payments and other information. Important for maintaining exploit free hardware systems. 
 - Fully open source / ahead-of-curve solutions for ASIC creation, allowing fair distribution and removing proprietary individual investment which creates imbalances in mining hardware <sup>[19](#f19)</sup>
 - v16 - 42.68MB 512TX/S
