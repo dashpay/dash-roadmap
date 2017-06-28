@@ -76,8 +76,8 @@ We would also like to announce the creation of a new team to be centered in Hong
 # 14.0 - Evolution v2 (TBD)
 - Fifth Hiring Wave - Full-time developers
 - 5M daily-users supported
-- 2TB HDD / 256GB SSD / 16/32 Xeon processor
-- 128TX/SEC && 10.67MB blocks <sup>[17](#17)</sup>
+- 2TB HDD / 256GB SSD / high-end processor <sup>[29](#f29)</sup>
+- 128TX/SEC && 10.67MB blocks <sup>[17](#f17)</sup>
 - GB Ethernet-handoff / Co-located level networking requirement
 - Ability to move money between public and private accounts <sup>[5](#f5)</sup>
 - DashDrive v2 <sup>[3](#f3)</sup>
@@ -143,3 +143,4 @@ Footnotes
 <br /><a name="f26">26</a>: Using specialized state transition for maintenance functions Each component of masternode will run redundantly under a load balancer to allow for individual component failure without causing a cascade which creates an outage 
 <br /><a name="f27">27</a>: Using third party API keys, allowing user to setup keys in settings then use from wallet seamlessly without ever leaving Dash. 
 <br /><a name="f28">28</a>: By leveraging dapi and third party tools, we can deploy addons and a marketplace, which allows custom third party services to integrate directly in the wallet such as debit/credit cards and fiat bank account support 
+<br /><a name="f29">29</a>: High-end quality processor like the Xeon, multi-core. Recommend to at least have 8 cores. 
