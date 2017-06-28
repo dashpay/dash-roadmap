@@ -56,22 +56,23 @@ We would also like to announce the creation of a new team to be centered in Hong
 # 13.0 - Evolution v1 - Mainnet (June 2018)
 - Public DashPay, DAPI, DashDrive, DashCore v13.0 release
 - Fourth Hiring Wave - Full-time developers
-- 500K daily-users supported <sup>[22](#22)</sup>
-- Ethernet networking requirement <sup>[15](#15)</sup>
-- 1TB HDD / 128GB SSD Req <sup>[8](#8)</sup> <sup>[9](#9)</sup>
-- 64TX/SEC && 5.33MB blocks <sup>[16](#16)</sup> <sup>[20](#20)</sup> <sup>[21](#21)</sup>
+- 500K daily-users supported <sup>[22](#f22)</sup>
+- Ethernet networking requirement <sup>[15](#f15)</sup>
+- 1TB HDD / 128GB SSD Req <sup>[8](#8)</sup> <sup>[9](#f9)</sup>
+- 64TX/SEC && 5.33MB blocks <sup>[16](#16)</sup> <sup>[20](#f20)</sup> <sup>[21](#f21)</sup>
 - Quorum-based DAPI implementation <sup>[4](#f4)</sup>
 - Proof of service / Proof of blockchain
 - Governance object support for users, groups, accounts
-- Email-based invitation system <sup>[2](#2)</sup>
-- State transitions <sup>[6](#6)</sup>
+- Email-based invitation system <sup>[2](#f2)</sup>
+- State transitions <sup>[6](#f6)</sup>
 - Encryption of object data
 - Offices in Arizona, Europe (CORE), and Asia (Dash SW)
-- Age-based quorums <sup>[13](#13)</sup>
-- Friending system / Semaphore-based approval system <sup>[7](#7)</sup>
+- Age-based quorums <sup>[13](#f13)</sup>
+- Friending system / Semaphore-based approval system <sup>[7](#f7)</sup>
 - IPFS DashDrive implementation / Limited sharding ability 
 - Official user-friendly Wallet
-- Masternode blocks <sup>[11](#11)</sup>
+- Masternode blocks <sup>[11](#f11)</sup>
+- Multi-key spork technology <sup>[30][#f30]</sup>
 
 # 14.0 - Evolution v2 (TBD)
 - Fifth Hiring Wave - Full-time developers
@@ -144,3 +145,4 @@ Footnotes
 <br /><a name="f27">27</a>: Using third party API keys, allowing user to setup keys in settings then use from wallet seamlessly without ever leaving Dash. 
 <br /><a name="f28">28</a>: By leveraging dapi and third party tools, we can deploy addons and a marketplace, which allows custom third party services to integrate directly in the wallet such as debit/credit cards and fiat bank account support 
 <br /><a name="f29">29</a>: High-end quality processor like the Xeon, multi-core. Recommend to at least have 8 cores. 
+<br /><a name="f30">30</a>: Sporks, our software based forking mechanism will be controlled by a few members of the core-team. Three of five keys will be used as a threshold for activation of specific core-daemon features. This is to stop accidents happening, damaging the network due to neglect or misunderstanding and outright network abuse.
