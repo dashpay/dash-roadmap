@@ -72,7 +72,7 @@ We would also like to announce the creation of a new team to be centered in Hong
 - IPFS DashDrive implementation / Limited sharding ability 
 - Official user-friendly Wallet
 - Masternode blocks <sup>[11](#f11)</sup>
-- Multi-key spork technology <sup>[30][#f30]</sup>
+- Multi-key spork technology <sup>[30](#f30)</sup>
 
 # 14.0 - Evolution v2 (TBD)
 - Fifth Hiring Wave - Full-time developers
