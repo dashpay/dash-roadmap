@@ -109,6 +109,7 @@ We would also like to announce the creation of a new team to be centered in Hong
 - Custom ULBA hardware, PCI-EX or high speed USB 3.0 <sup>[14](#f14)</sup>
 - Complete end-to-end open source masternode hardware / with custom silicon for processing high volumes of payments and other information. Important for maintaining exploit free hardware systems. 
 - Fully open source / ahead-of-curve solutions for ASIC creation, allowing fair distribution and removing proprietary individual investment which creates imbalances in mining hardware <sup>[19](#f19)</sup>
+- 10% of network transactional fees should go toward budget system
 - v16 - 42.68MB 512TX/S
 - v17 - 85.36MB 1024TX/S
 - v18 - 170.72MB 2048TX/S 
