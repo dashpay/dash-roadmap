@@ -39,6 +39,7 @@ v2.2 update --  We've determined the first version can be significantly reduced 
 - 2MB block size increase, activation in November 2017
 - 2MB / 5MB block research documentation
 - Launch of a read-only/view-only portal for project documentation which will be open to the entire community (to ensure transparency)
+- Lowering transaction fees 10x, activation in November 2017
 
 # DashPay Evolution Wallet Testnet Release (November 2017)
 - User signup and friending process (Signup procedure for Evolution on testnet // reservation testnet)
