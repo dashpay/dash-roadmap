@@ -52,10 +52,10 @@ v2.2 update --  We've determined the first version can be significantly reduced 
 - Integration partner testing
 - API & SDK testing
 
-## DashPay Evolution Wallet Livenet Release
-- Signup and Friending Process Evolution on Livenet
-- Evolution Account Management on LiveNet
-- DAPI Livenet Release
+## DashPay Evolution Wallet Mainnet Release
+- Signup and Friending Process Evolution on Mainnet
+- Evolution Account Management on MainNet
+- DAPI Mainnet Release
 
 # 13.0 - Evolution v1 - Mainnet
 - Public DashPay, DAPI, DashDrive, DashCore v13.0 release
