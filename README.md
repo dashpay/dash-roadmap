@@ -35,7 +35,7 @@ v2.2 update --  We've determined the first version can be significantly reduced 
 # DashPay Wallet Alpha (September 2017)
 - Dash version of CoPay, pre-Evolution functions, on test-net
 - Will lead to full Evolution wallet (not merely a web wallet)
-- DashCore 12.2 Release (September 2017)
+- DashCore 12.2 Release (September 2017), rehaul of networking code
 - 2MB block size increase, activation in November 2017
 - 2MB / 5MB block research documentation
 - Launch of a read-only/view-only portal for project documentation which will be open to the entire community (to ensure transparency)
@@ -47,7 +47,7 @@ v2.2 update --  We've determined the first version can be significantly reduced 
 - DAPI testnet release
 
 # DashCore 12.3 Release (December 2017)
-- HD wallets, rehaul of networking code
+- HD wallets
 - Evolution Alpha Release to Partners (testnet, December 2017)
 - Integration partner testing
 - API & SDK testing
