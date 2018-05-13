@@ -28,7 +28,7 @@ We would also like to announce the creation of a new team to be centered in Hong
 
 --
 
-v2.2 update --  We've determined the first version can be significantly reduced to a managable size, then build incrementally on top of the initial release. This vastly simplifies the initial scope, allowing for increased security and reduced load on the team. 
+v2.2 update --  We've determined the first version can be significantly reduced to a manageable size, then build incrementally on top of the initial release. This vastly simplifies the initial scope, allowing for increased security and reduced load on the team. 
 
 
 
