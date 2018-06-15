@@ -1,4 +1,8 @@
-# OFFICIAL DASH ROADMAP
+# Official Roadmap - Dash Core Group, Inc.
+
+Update (2018-06-14) -- This roadmap is largely outdated and the Dash Core Group management is working on a new, updated version, which we intend to release as soon as it's ready.
+
+
 ### Version 2.2 // Delivery Milestones
 - Evan Duffield / evan@dash.org / Dash Labs
 - Andy Freer / andy@dash.org / Dash Core CTO
